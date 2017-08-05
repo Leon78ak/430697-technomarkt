@@ -1,0 +1,34 @@
+.feature-delivery, .feature-discount, .feature-materials, .feature-tech, .feature-tools{
+	background: blue url(sprites.png) no-repeat;
+}
+
+.feature-delivery{
+	background-position: -546px -436px ;
+	width: 78px;
+	height: 63px;
+}
+
+.feature-discount{
+	background-position: -559px -250px ;
+	width: 59px;
+	height: 72px;
+}
+
+.feature-materials{
+	background-position: -134px -285px ;
+	width: 44px;
+	height: 65px;
+}
+
+.feature-tech{
+	background-position: -347px -170px ;
+	width: 78px;
+	height: 62px;
+}
+
+.feature-tools{
+	background-position: -411px -303px ;
+	width: 75px;
+	height: 61px;
+}
+

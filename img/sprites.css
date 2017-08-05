@@ -1,0 +1,34 @@
+.feature-delivery, .feature-discount, .feature-materials, .feature-tech, .feature-tools{
+	background: url(sprites.png) no-repeat;
+}
+
+.feature-delivery{
+	background-position: -303.99999618530273px -48px ;
+	width: 78px;
+	height: 63px;
+}
+
+.feature-discount{
+	background-position: -500.00002670288086px -52.00001525878906px ;
+	width: 59px;
+	height: 72px;
+}
+
+.feature-materials{
+	background-position: -74.00002670288086px -49px ;
+	width: 44px;
+	height: 65px;
+}
+
+.feature-tech{
+	background-position: -504.00002670288086px -180.00001525878906px ;
+	width: 78px;
+	height: 62px;
+}
+
+.tools{
+	background-position: -186.99999618530273px -48.00001525878906px ;
+	width: 75px;
+	height: 61px;
+}
+
